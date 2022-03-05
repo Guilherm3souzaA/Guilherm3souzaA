@@ -19,8 +19,7 @@
   Além disso, também estou me formando como desenvolvedor Full-stack pela <a href="https://cubos.academy/">Cubos Academy.</a> 
   
   <h2>Algumas curiosidades sobre mim</h2>
-  Em meu tempo livre, gosto muito de pegar meu cafézinho, sentar na varanda de casa e ler um bom livro.
-
+ 
   
    <div align="right" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

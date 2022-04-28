@@ -16,9 +16,9 @@
 <!--   <p>As principais tecnologias que utilizo são:<p> -->
 <!-- 
 <br><br><br> -->
-<div style="display:flex; flex-direction:row; justify-content:space-between">
+<!-- <div style="display:flex; flex-direction:row; justify-content:space-between">
 <img style="width:250px; margin-rigth:1000px;" src= "https://user-images.githubusercontent.com/90470148/165853614-db471f93-e56d-4592-a8cd-d4d52064ff11.gif">
-</div>
+</div> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)](https://github.com/Guilherm3souzaA/github-readme-stats)

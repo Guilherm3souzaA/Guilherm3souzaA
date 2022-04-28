@@ -32,3 +32,7 @@
   <img style="width:120px" src="https://raw.githubusercontent.com/cncf/landscape/3fc3b47c3c75987e432b058e0dc06facd721dbfa/hosted_logos/postgre-sql.svg">
   
 </div>
+  
+  
+  
+  ![Snake animation](https://github.com/Guilherm3souzaA/Guilherm3souzaA/blob/output/github-contribution-grid-snake.svg)

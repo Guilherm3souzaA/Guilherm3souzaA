@@ -1,3 +1,25 @@
+## Guilherme Souza de Andrade💻☕
+<h3>Olá Recrutador!!! Seja bem vindo(a) ao meu repositório 😉</h3>
+<p> Meu nome é <strong>Guilherme Souza</strong>, tenho 18 anos, estou me formando em <strong>Analise e Desenvolvimento de Sistemas(ADS)<strong> e sou <br><strong>Desenvolvedor Full-Stack</strong>, formado pela <a href="https://cubos.academy/">CUBOS ACADEMY</a>.
+  
+--------------------------------
+  <h4>FRONT-END:</h4>
+ <p>Nível: <strong>AVANÇADO</strong></p>
+  
+--------------------------------
+  
+  <h4>BACK-END:</h4>
+  <p>Nível: <strong>INTERMEDIÁRIO</strong></p>
+  
+  
+  -----------------------
+<!--   <p>As principais tecnologias que utilizo são:<p> -->
+<!-- 
+<br><br><br> -->
+<div style="display:flex; flex-direction:row; justify-content:space-between">
+<img style="width:250px; margin-rigth:1000px;" src= "https://user-images.githubusercontent.com/90470148/165853614-db471f93-e56d-4592-a8cd-d4d52064ff11.gif">
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)](https://github.com/Guilherm3souzaA/github-readme-stats)
 
@@ -9,7 +31,4 @@
    <img style="width:120px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img style="width:120px" src="https://raw.githubusercontent.com/cncf/landscape/3fc3b47c3c75987e432b058e0dc06facd721dbfa/hosted_logos/postgre-sql.svg">
   
-  
- 
 </div>
-

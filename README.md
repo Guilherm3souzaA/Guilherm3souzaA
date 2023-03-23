@@ -1,5 +1,5 @@
 ## Guilherme Souza de Andrade💻☕
-<h3>Olá Recrutador!!! Seja bem vindo(a) ao meu repositório 😉</h3>
+<h3>Olá!!! Seja bem vindo(a) ao meu repositório 😉</h3>
 <p> Meu nome é <strong>Guilherme Souza</strong>, tenho 18 anos, estou me formando em <strong>Analise e Desenvolvimento de Sistemas(ADS)<strong> e sou <br><strong>Desenvolvedor Full-Stack</strong>, formado pela <a href="https://cubos.academy/">CUBOS ACADEMY</a>.
   <p><strong>Então, sinta-se em casa, pegue seu café e aproveite para checar meus códigos</strong> 😉<p>
   

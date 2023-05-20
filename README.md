@@ -9,7 +9,7 @@ Minha caixa de ferramentas inclui habilidades em HTML, CSS, JavaScript, Node.js,
 
 Além do meu conhecimento em desenvolvimento Full Stack, também tenho experiência no universo do WordPress. Sou especializado no uso de plugins populares, como Jet-Engine e WooCommerce, para criar soluções personalizadas e funcionais.
 
-E para trazer um pouco de diversão à vida de desenvolvedor, tenho uma paixão por jogos de videogame. Quando não estou codificando, estou mergulhando em mundos virtuais, explorando aventuras épicas e aprimorando minhas habilidades como jogador.
+E para trazer um pouco de diversão à vida de desenvolvedor, tenho uma paixão por jogos de videogame. Quando não estou codificando, estou mergulhando em mundos virtuais, explorando aventuras épicas e aprimorando minhas habilidades como jogador.🎮
 
   Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos como desenvolvedor Full Stack. Vamos juntos explorar o mundo da programação, criar soluções inovadoras e deixar nossa marca no universo digital!
 </p> 

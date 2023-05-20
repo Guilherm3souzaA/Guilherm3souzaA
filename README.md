@@ -1,5 +1,8 @@
 ## Guilherme Souza de Andrade💻☕
-<h3>Olá!!! Seja bem vindo(a) ao meu repositório 😉</h3>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+  <h3>Olá!!! Seja bem vindo(a) ao meu repositório 😉</h3>
 <p>Olá! Sou Guilherme Souza de Andrade, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com 19 anos e prestes a me formar em Análise e Desenvolvimento de Sistemas, estou pronto para encarar desafios empolgantes no mundo da programação.
 
 Minha caixa de ferramentas inclui habilidades em HTML, CSS, JavaScript, Node.js, React e Git. Com essas tecnologias, sou capaz de criar interfaces responsivas, construir aplicações web dinâmicas e colaborar de forma eficiente em projetos de desenvolvimento.
@@ -10,7 +13,16 @@ E para trazer um pouco de diversão à vida de desenvolvedor, tenho uma paixão 
 
   Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos como desenvolvedor Full Stack. Vamos juntos explorar o mundo da programação, criar soluções inovadoras e deixar nossa marca no universo digital!
 </p> 
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media2.giphy.com/media/EbRPam1A4jEWkUokL8/giphy.gif?cid=ecf05e476b9z0ozey4rv2bm8ipmm27zvnda4e5lqcvxuzja2&ep=v1_gifs_trending&rid=giphy.gif&ct=g" alt="Descrição do GIF">
+  </div>
+</div>
 
+
+                  
+                      
+               
 
 
 

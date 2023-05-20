@@ -1,19 +1,22 @@
 ## Guilherme Souza de Andrade💻☕
 <h3>Olá!!! Seja bem vindo(a) ao meu repositório 😉</h3>
-<p> Meu nome é <strong>Guilherme Souza</strong>, tenho 18 anos, estou me formando em <strong>Analise e Desenvolvimento de Sistemas(ADS)<strong> e sou <br><strong>Desenvolvedor Full-Stack</strong>, formado pela <a href="https://cubos.academy/">CUBOS ACADEMY</a>.
-  <p><strong>Então, sinta-se em casa, pegue seu café e aproveite para checar meus códigos</strong> 😉<p>
-  
---------------------------------
-  <h4>FRONT-END:</h4>
- <p>Nível: <strong>AVANÇADO</strong></p>
-  
---------------------------------
-  
-  <h4>BACK-END:</h4>
-  <p>Nível: <strong>INTERMEDIÁRIO</strong></p>
-  
-  
-  -----------------------
+<p>Olá! Sou Guilherme Souza de Andrade, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com 19 anos e prestes a me formar em Análise e Desenvolvimento de Sistemas, estou pronto para encarar desafios empolgantes no mundo da programação.
+
+Minha caixa de ferramentas inclui habilidades em HTML, CSS, JavaScript, Node.js, React e Git. Com essas tecnologias, sou capaz de criar interfaces responsivas, construir aplicações web dinâmicas e colaborar de forma eficiente em projetos de desenvolvimento.
+
+Além do meu conhecimento em desenvolvimento Full Stack, também tenho experiência no universo do WordPress. Sou especializado no uso de plugins populares, como Jet-Engine e WooCommerce, para criar soluções personalizadas e funcionais.
+
+E para trazer um pouco de diversão à vida de desenvolvedor, tenho uma paixão por jogos de videogame. Quando não estou codificando, estou mergulhando em mundos virtuais, explorando aventuras épicas e aprimorando minhas habilidades como jogador.
+
+  Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos como desenvolvedor Full Stack. Vamos juntos explorar o mundo da programação, criar soluções inovadoras e deixar nossa marca no universo digital!
+</p> 
+
+
+
+
+
+
+
 <!--   <p>As principais tecnologias que utilizo são:<p> -->
 <!-- 
 <br><br><br> -->

@@ -1,8 +1,8 @@
 ## Guilherme Souza de Andrade💻☕
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-  <h3>Olá!!! Seja bem vindo(a) ao meu repositório 😉</h3>
+<img src="https://media2.giphy.com/media/EbRPam1A4jEWkUokL8/giphy.gif?cid=ecf05e476b9z0ozey4rv2bm8ipmm27zvnda4e5lqcvxuzja2&ep=v1_gifs_trending&rid=giphy.gif&ct=g" align="right" width="300" />
+<p align="left">
+ <h3>Olá!!! Seja bem vindo(a) ao meu repositório 😉</h3>
 <p>Olá! Sou Guilherme Souza de Andrade, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com 19 anos e prestes a me formar em Análise e Desenvolvimento de Sistemas, estou pronto para encarar desafios empolgantes no mundo da programação.
 
 Minha caixa de ferramentas inclui habilidades em HTML, CSS, JavaScript, Node.js, React e Git. Com essas tecnologias, sou capaz de criar interfaces responsivas, construir aplicações web dinâmicas e colaborar de forma eficiente em projetos de desenvolvimento.
@@ -13,28 +13,10 @@ E para trazer um pouco de diversão à vida de desenvolvedor, tenho uma paixão 
 
   Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos como desenvolvedor Full Stack. Vamos juntos explorar o mundo da programação, criar soluções inovadoras e deixar nossa marca no universo digital!
 </p> 
-  </div>
-  <div style="flex: 1;">
-    <img src="https://media2.giphy.com/media/EbRPam1A4jEWkUokL8/giphy.gif?cid=ecf05e476b9z0ozey4rv2bm8ipmm27zvnda4e5lqcvxuzja2&ep=v1_gifs_trending&rid=giphy.gif&ct=g" alt="Descrição do GIF">
-  </div>
-</div>
+</p>
 
 
-                  
-                      
-               
-
-
-
-
-
-
-<!--   <p>As principais tecnologias que utilizo são:<p> -->
-<!-- 
-<br><br><br> -->
-<!-- <div style="display:flex; flex-direction:row; justify-content:space-between">
-<img style="width:250px; margin-rigth:1000px;" src= "https://user-images.githubusercontent.com/90470148/165853614-db471f93-e56d-4592-a8cd-d4d52064ff11.gif">
-</div> -->
+<h2>💻Technologies</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)](https://github.com/Guilherm3souzaA/github-readme-stats)

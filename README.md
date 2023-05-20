@@ -16,7 +16,7 @@ E para trazer um pouco de diversão à vida de desenvolvedor, tenho uma paixão 
 </p>
 
 
-<h2>💻Technologies</h2>
+<h2>💻Tecnologias</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm3souzaA&show_icons=true&theme=tokyonight)](https://github.com/Guilherm3souzaA/github-readme-stats)
